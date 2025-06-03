@@ -8,356 +8,8 @@
  * ------------------------------------------------------------
  */
 {
-  "sections": {
-    "1643557152da74e53e": {
-      "type": "slideshow",
-      "blocks": {
-        "1643557152dd165b0b-0": {
-          "type": "image",
-          "settings": {
-            "title": "Nachhaltigkeit\naufblühen lassen",
-            "title_size": 62,
-            "subheading": "Mit unseren frühlingshaften Bestsellern",
-            "link": "shopify://collections/unsere-bestseller",
-            "link_text": "Jetzt entdecken",
-            "text_align": "vertical-bottom horizontal-left",
-            "image": "shopify://shop_images/Mai_Banner_MONTREET_2.jpg",
-            "image_mobile": "shopify://shop_images/funktionsshirts-joalina-453251.jpg",
-            "overlay_opacity": 18,
-            "focal_point": "center center"
-          }
-        },
-        "1d29ac7f-91ff-45bd-911c-777b57f964eb": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "title": "Happy 2025!",
-            "title_size": 80,
-            "subheading": "Ehrliche Outdoormode für jedes Abenteuer",
-            "link": "shopify://collections/alle-produkte",
-            "link_text": "Hier gönnen",
-            "text_align": "vertical-bottom horizontal-left",
-            "image": "shopify://shop_images/IMG_3544.jpg",
-            "image_mobile": "shopify://shop_images/IMG_8397.jpg",
-            "overlay_opacity": 0,
-            "focal_point": "center center"
-          }
-        },
-        "87dc32e2-8577-4d8d-990f-80df6c9f52db": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "title": "",
-            "title_size": 80,
-            "subheading": "MONTREET wird 5 Jahre und wir geben einen aus!",
-            "link": "shopify://collections/all",
-            "link_text": "MONTREET25",
-            "text_align": "vertical-bottom horizontal-center",
-            "image": "shopify://shop_images/5_Jahre_MONTREET.png",
-            "image_mobile": "shopify://shop_images/Vote_fuer_uns_1.jpg",
-            "overlay_opacity": 16,
-            "focal_point": "top center"
-          }
-        },
-        "4ae5d9be-d56a-4521-867e-d344d33a53a2": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "title": "Black Friday? Nicht mit uns!",
-            "title_size": 62,
-            "subheading": "",
-            "link": "shopify://pages/unsere-werte",
-            "link_text": "Unser Versprechen",
-            "text_align": "vertical-bottom horizontal-left",
-            "image": "shopify://shop_images/211122_MONTREET_StrongerTogetherWeek_2000x600_397234a3-35be-40fa-b210-0717882fb3ff.jpg",
-            "image_mobile": "shopify://shop_images/211122_MONTREET_StrongerTogetherWeek_InstagramStories_1080x1920_clean.jpg",
-            "overlay_opacity": 0,
-            "focal_point": "center center"
-          }
-        },
-        "fd5e3aee-d763-462e-b2ad-aedb24ee6893": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "title": "Galentine's Day!\nDer Tag der Freundschaft",
-            "title_size": 68,
-            "subheading": "Kaufe 2 Sport-BHs um 78,- statt 98,-",
-            "link": "shopify://products/sportbh-lenis",
-            "link_text": "Code: FEB25",
-            "text_align": "vertical-bottom horizontal-left",
-            "image": "shopify://shop_images/Mai_Banner_MONTREET.png",
-            "image_mobile": "shopify://shop_images/faires-sportset-leggings-bh-767006.jpg",
-            "overlay_opacity": 0,
-            "focal_point": "center center"
-          }
-        }
-      },
-      "block_order": [
-        "1643557152dd165b0b-0",
-        "1d29ac7f-91ff-45bd-911c-777b57f964eb",
-        "87dc32e2-8577-4d8d-990f-80df6c9f52db",
-        "4ae5d9be-d56a-4521-867e-d344d33a53a2",
-        "fd5e3aee-d763-462e-b2ad-aedb24ee6893"
-      ],
-      "settings": {
-        "section_height": "100vh",
-        "mobile_height": "100vh",
-        "parallax": false,
-        "style": "dots",
-        "autoplay": true,
-        "autoplay_speed": 6
-      }
-    },
-    "16435587506275eadd": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Unsere Bestseller",
-        "home_featured_products": "alle-produkte",
-        "per_row": 5,
-        "rows": 1,
-        "view_all": true,
-        "divider": false
-      }
-    },
-    "16435588208e0c7288": {
-      "type": "background-image-text",
-      "settings": {
-        "subtitle": "ABOUT US",
-        "title": "WER WIR SIND",
-        "text": "<p>Nachhaltige Lebensweise, spannende, ausgefallene Designs und made in Europe - das ist MONTREET.</p>",
-        "button_label": "Mehr über MONTREET",
-        "button_link": "shopify://pages/our-story",
-        "image": "shopify://shop_images/447817578_278666.jpg",
-        "focal_point": "center",
-        "layout": "right",
-        "height": 550,
-        "parallax": true
-      }
-    },
-    "164355902397d3a8e9": {
-      "type": "rich-text",
-      "blocks": {
-        "16435590232351b4c3-0": {
-          "type": "heading",
-          "settings": {
-            "title": "Unser Versprechen"
-          }
-        },
-        "16435590232351b4c3-1": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": false,
-            "text": "<p>Wir verbinden <strong>ehrliche Outdoor Mode</strong> mit <strong>einzigartigem Design</strong>. Dabei greifen wir ausschließlich auf <strong>umweltschonende Materialien</strong> zurück und legen Wert auf eine <strong>faire Produktion</strong> in <strong>Europa</strong>.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "16435590232351b4c3-0",
-        "16435590232351b4c3-1"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false
-      }
-    },
-    "1643559081348e5c83": {
-      "type": "text-columns",
-      "blocks": {
-        "164355908183382ea8-0": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/ARTIST_EDITION.png",
-            "image_width": 60,
-            "title": "Kreativ",
-            "text": "<p>Bei uns wird's nicht langweilig! </p><p>Mit ausgefallenen, spannenden Designs von österreichischen KünstlerInnen, bringen wir Farbe in dein Leben!</p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        },
-        "164355908183382ea8-1": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/RECYCLETMATERIALIEN.png",
-            "image_width": 60,
-            "title": "Nachhaltig",
-            "text": "<p>Wir setzen alles daran, nachhaltig zu handeln und mit euch das System zu ändern. Ehrlichkeit und Transparenz stehen für uns an erster Stelle.</p><p>Let's make a change!</p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        },
-        "164355908183382ea8-2": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/FAIRHERGESTELLT.png",
-            "image_width": 60,
-            "title": "Funktional",
-            "text": "<p>Unsere zeitlose Outdoor Mode sieht nicht nur lässig aus, sondern unterstützt dich auch optimal bei deinen Abenteuern - egal ob im Alltag oder in der Natur!</p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "164355908183382ea8-0",
-        "164355908183382ea8-1",
-        "164355908183382ea8-2"
-      ],
-      "settings": {
-        "title": "",
-        "align_text": "center",
-        "divider": false
-      }
-    },
-    "1643559238ee358c57": {
-      "type": "background-image-text",
-      "settings": {
-        "subtitle": "Wir sind außerdem",
-        "title": "Gewinner des Vegan Fashion Award 2021",
-        "text": "<p>Mit unserer THE CLIMBER* Jacke in der Kategorie \"Bestes Outdoor Piece\".</p>",
-        "button_label": "Zur Jacke",
-        "button_link": "shopify://products/the-climber-artist-edition",
-        "image": "shopify://shop_images/Mariam_mit_schwarzem_Logo_Kopie.jpg",
-        "focal_point": "center",
-        "layout": "left",
-        "height": 550,
-        "parallax": true
-      }
-    },
-    "1643559241eab48128": {
-      "type": "collection-callout",
-      "settings": {
-        "collection": "featured",
-        "subtitle": "Individuelle",
-        "title": "ARTIST Kollektionen",
-        "text": "Erfahre mehr über unsere einzigartigen Artist Kollektionen, die in Zusammenarbeit mit Künstler*Innen aus Österreich entstehen und nur in limitierter Auflage erhältlich sind!",
-        "cta_text1": "Zur Artist-Kollektion",
-        "cta_link1": "shopify://collections/featured",
-        "cta_text2": "",
-        "cta_link2": "",
-        "layout": "right",
-        "divider": false
-      }
-    },
-    "16435594846c80d8b9": {
-      "type": "background-video-text",
-      "settings": {
-        "subtitle": "Don't Change who you are",
-        "title": "Just Start wearing Green",
-        "text": "",
-        "button_label": "Mehr über uns",
-        "button_link": "shopify://pages/unsere-werte",
-        "video_url": "https://vimeo.com/462927940",
-        "color_border": "#0c0d49",
-        "layout": "left",
-        "height": 550
-      }
-    },
-    "1643559555ba63368b": {
-      "type": "text-and-image",
-      "settings": {
-        "image": "shopify://shop_images/Montreet-12_Quadrat.jpg",
-        "image_width": 500,
-        "subtitle": "- Reduce - Reuse - Repair -",
-        "title": "Wir reparieren deine Kleidung!",
-        "text": "<p>Dein MONTREET*Lieblingsteil hat ein Loch oder einen Riss? Wir reparieren dein Kleidungsstück kostenlos für dich.  Schicke uns einfach eine Mail oder fülle das Kontaktformular aus - ganz easy! Denn wir wollen natürlich, dass dich unsere Kleidungsstücke so lange wie möglich begleiten.</p>",
-        "button_label": "Jetzt reparieren",
-        "button_link": "shopify://pages/reparaturservice",
-        "button_style": "primary",
-        "align_text": "left",
-        "layout": "right",
-        "divider": false
-      }
-    },
-    "1643559712b55bae47": {
-      "type": "text-and-image",
-      "settings": {
-        "image": "shopify://shop_images/DSC_0291_3.jpg",
-        "image_width": 500,
-        "subtitle": "UNSER MIETSERVICE",
-        "title": "Miete eine Jacke",
-        "text": "<p>Du bist nicht regelmäßig klettern und laufen gehst du höchstens für einen guten Zweck? Du möchtest ein Produkt zuerst testen oder dir fehlt das nötige Kleingeld? </p><p>Wir haben die Lösung für dich, denn bei uns kannst du Jacken auch mieten!</p>",
-        "button_label": "Zum Mietservice",
-        "button_link": "shopify://pages/rental-services",
-        "button_style": "primary",
-        "align_text": "left",
-        "layout": "left",
-        "divider": false
-      }
-    },
-    "1643559842a9e4ea45": {
-      "type": "apps",
-      "settings": {
-        "full_width": false,
-        "space_around": true
-      }
-    },
-    "164356004562a7cd17": {
-      "type": "logo-list",
-      "blocks": {
-        "1643560045d338bc02-0": {
-          "type": "logo_image",
-          "settings": {
-            "image": "shopify://shop_images/falterat_logo.png",
-            "link": ""
-          }
-        },
-        "1643560045d338bc02-1": {
-          "type": "logo_image",
-          "settings": {
-            "image": "shopify://shop_images/kleinezeitung_logo.png",
-            "link": "https://www.kleinezeitung.at/lebensart/sonntag/6026269/Levitate-und-Montreet_Mit-Recycling-und-Pflanzenfasern-setzen"
-          }
-        },
-        "1643560045d338bc02-2": {
-          "type": "logo_image",
-          "settings": {
-            "image": "shopify://shop_images/textilzeitung_logo.jpg",
-            "link": "https://www.textilzeitung.at/fashion/news/label-to-watch-montreet-13828"
-          }
-        },
-        "1643560045d338bc02-3": {
-          "type": "logo_image",
-          "settings": {
-            "image": "shopify://shop_images/miss_Logo.png",
-            "link": "https://mio.observer.at/webview/d0c6cffc-13ca-4ee7-a13a-efae0a13b068/7128698#&gid=1&pid=1"
-          }
-        },
-        "4a2dfa14-8fff-406a-b0f4-c9e7a47608b6": {
-          "type": "logo_image",
-          "settings": {
-            "image": "shopify://shop_images/KURIER_Logo.jpg",
-            "link": "https://mio.observer.at/webview/3c7cf60c-f2f5-45e0-8c88-02754c18d270/6713257#&gid=1&pid=1"
-          }
-        }
-      },
-      "block_order": [
-        "1643560045d338bc02-0",
-        "1643560045d338bc02-1",
-        "1643560045d338bc02-2",
-        "1643560045d338bc02-3",
-        "4a2dfa14-8fff-406a-b0f4-c9e7a47608b6"
-      ],
-      "settings": {
-        "title": "Bekannt aus",
-        "logo_opacity": 100,
-        "divider": false
-      }
-    },
-    "1652437963127d181d": {
-      "type": "apps",
-      "settings": {
-        "full_width": false,
-        "space_around": false
-      }
-    }
-  },
   "order": [
     "1643557152da74e53e",
-    "16435587506275eadd",
     "16435588208e0c7288",
     "164355902397d3a8e9",
     "1643559081348e5c83",
@@ -369,5 +21,320 @@
     "1643559842a9e4ea45",
     "164356004562a7cd17",
     "1652437963127d181d"
-  ]
+  ],
+  "sections": {
+    "1643557152da74e53e": {
+      "block_order": [
+        "1643557152dd165b0b-0",
+        "1d29ac7f-91ff-45bd-911c-777b57f964eb",
+        "87dc32e2-8577-4d8d-990f-80df6c9f52db",
+        "4ae5d9be-d56a-4521-867e-d344d33a53a2",
+        "fd5e3aee-d763-462e-b2ad-aedb24ee6893"
+      ],
+      "blocks": {
+        "1643557152dd165b0b-0": {
+          "settings": {
+            "focal_point": "center center",
+            "link": "shopify://collections/unsere-bestseller",
+            "link_text": "Jetzt entdecken",
+            "overlay_opacity": 18,
+            "subheading": "Mit unseren frühlingshaften Bestsellern",
+            "text_align": "vertical-bottom horizontal-left",
+            "title": "Nachhaltigkeit\naufblühen lassen",
+            "title_size": 62
+          },
+          "type": "image"
+        },
+        "1d29ac7f-91ff-45bd-911c-777b57f964eb": {
+          "disabled": true,
+          "settings": {
+            "focal_point": "center center",
+            "link": "shopify://collections/alle-produkte",
+            "link_text": "Hier gönnen",
+            "overlay_opacity": 0,
+            "subheading": "Ehrliche Outdoormode für jedes Abenteuer",
+            "text_align": "vertical-bottom horizontal-left",
+            "title": "Happy 2025!",
+            "title_size": 80
+          },
+          "type": "image"
+        },
+        "4ae5d9be-d56a-4521-867e-d344d33a53a2": {
+          "disabled": true,
+          "settings": {
+            "focal_point": "center center",
+            "link": "shopify://pages/unsere-werte",
+            "link_text": "Unser Versprechen",
+            "overlay_opacity": 0,
+            "subheading": "",
+            "text_align": "vertical-bottom horizontal-left",
+            "title": "Black Friday? Nicht mit uns!",
+            "title_size": 62
+          },
+          "type": "image"
+        },
+        "87dc32e2-8577-4d8d-990f-80df6c9f52db": {
+          "disabled": true,
+          "settings": {
+            "focal_point": "top center",
+            "link": "shopify://collections/all",
+            "link_text": "MONTREET25",
+            "overlay_opacity": 16,
+            "subheading": "MONTREET wird 5 Jahre und wir geben einen aus!",
+            "text_align": "vertical-bottom horizontal-center",
+            "title": "",
+            "title_size": 80
+          },
+          "type": "image"
+        },
+        "fd5e3aee-d763-462e-b2ad-aedb24ee6893": {
+          "disabled": true,
+          "settings": {
+            "focal_point": "center center",
+            "link": "shopify://products/sportbh-lenis",
+            "link_text": "Code: FEB25",
+            "overlay_opacity": 0,
+            "subheading": "Kaufe 2 Sport-BHs um 78,- statt 98,-",
+            "text_align": "vertical-bottom horizontal-left",
+            "title": "Galentine's Day!\nDer Tag der Freundschaft",
+            "title_size": 68
+          },
+          "type": "image"
+        }
+      },
+      "settings": {
+        "autoplay": true,
+        "autoplay_speed": 6,
+        "mobile_height": "100vh",
+        "parallax": false,
+        "section_height": "100vh",
+        "style": "dots"
+      },
+      "type": "slideshow"
+    },
+    "16435588208e0c7288": {
+      "settings": {
+        "button_label": "Mehr über MONTREET",
+        "button_link": "shopify://pages/our-story",
+        "focal_point": "center",
+        "height": 550,
+        "image": "shopify://shop_images/png.png",
+        "layout": "right",
+        "parallax": true,
+        "subtitle": "ABOUT US",
+        "text": "<p>Nachhaltige Lebensweise, spannende, ausgefallene Designs und made in Europe - das ist MONTREET.</p>",
+        "title": "WER WIR SIND"
+      },
+      "type": "background-image-text"
+    },
+    "164355902397d3a8e9": {
+      "block_order": [
+        "16435590232351b4c3-0",
+        "16435590232351b4c3-1"
+      ],
+      "blocks": {
+        "16435590232351b4c3-0": {
+          "settings": {
+            "title": "Unser Versprechen"
+          },
+          "type": "heading"
+        },
+        "16435590232351b4c3-1": {
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>Wir verbinden <strong>ehrliche Outdoor Mode</strong> mit <strong>einzigartigem Design</strong>. Dabei greifen wir ausschließlich auf <strong>umweltschonende Materialien</strong> zurück und legen Wert auf eine <strong>faire Produktion</strong> in <strong>Europa</strong>.</p>"
+          },
+          "type": "text"
+        }
+      },
+      "settings": {
+        "align_text": "center",
+        "divider": false,
+        "narrow_column": true
+      },
+      "type": "rich-text"
+    },
+    "1643559081348e5c83": {
+      "block_order": [
+        "164355908183382ea8-0",
+        "164355908183382ea8-1",
+        "164355908183382ea8-2"
+      ],
+      "blocks": {
+        "164355908183382ea8-0": {
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "enable_image": true,
+            "image_width": 60,
+            "text": "<p>Bei uns wird's nicht langweilig! </p><p>Mit ausgefallenen, spannenden Designs von österreichischen KünstlerInnen, bringen wir Farbe in dein Leben!</p>",
+            "title": "Kreativ"
+          },
+          "type": "text_block"
+        },
+        "164355908183382ea8-1": {
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "enable_image": true,
+            "image_width": 60,
+            "text": "<p>Wir setzen alles daran, nachhaltig zu handeln und mit euch das System zu ändern. Ehrlichkeit und Transparenz stehen für uns an erster Stelle.</p><p>Let's make a change!</p>",
+            "title": "Nachhaltig"
+          },
+          "type": "text_block"
+        },
+        "164355908183382ea8-2": {
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "enable_image": true,
+            "image_width": 60,
+            "text": "<p>Unsere zeitlose Outdoor Mode sieht nicht nur lässig aus, sondern unterstützt dich auch optimal bei deinen Abenteuern - egal ob im Alltag oder in der Natur!</p>",
+            "title": "Funktional"
+          },
+          "type": "text_block"
+        }
+      },
+      "settings": {
+        "align_text": "center",
+        "divider": false,
+        "title": ""
+      },
+      "type": "text-columns"
+    },
+    "1643559238ee358c57": {
+      "settings": {
+        "button_label": "Zur Jacke",
+        "button_link": "shopify://products/the-climber-artist-edition",
+        "focal_point": "center",
+        "height": 550,
+        "layout": "left",
+        "parallax": true,
+        "subtitle": "Wir sind außerdem",
+        "text": "<p>Mit unserer THE CLIMBER* Jacke in der Kategorie \"Bestes Outdoor Piece\".</p>",
+        "title": "Gewinner des Vegan Fashion Award 2021"
+      },
+      "type": "background-image-text"
+    },
+    "1643559241eab48128": {
+      "settings": {
+        "collection": "featured",
+        "cta_link1": "shopify://collections/featured",
+        "cta_link2": "",
+        "cta_text1": "Zur Artist-Kollektion",
+        "cta_text2": "",
+        "divider": false,
+        "layout": "right",
+        "subtitle": "Individuelle",
+        "text": "Erfahre mehr über unsere einzigartigen Artist Kollektionen, die in Zusammenarbeit mit Künstler*Innen aus Österreich entstehen und nur in limitierter Auflage erhältlich sind!",
+        "title": "ARTIST Kollektionen"
+      },
+      "type": "collection-callout"
+    },
+    "16435594846c80d8b9": {
+      "settings": {
+        "button_label": "Mehr über uns",
+        "button_link": "shopify://pages/unsere-werte",
+        "color_border": "#0c0d49",
+        "height": 550,
+        "layout": "left",
+        "subtitle": "Don't Change who you are",
+        "text": "",
+        "title": "Just Start wearing Green",
+        "video_url": "https://vimeo.com/462927940"
+      },
+      "type": "background-video-text"
+    },
+    "1643559555ba63368b": {
+      "settings": {
+        "align_text": "left",
+        "button_label": "Jetzt reparieren",
+        "button_link": "shopify://pages/reparaturservice",
+        "button_style": "primary",
+        "divider": false,
+        "image_width": 500,
+        "layout": "right",
+        "subtitle": "- Reduce - Reuse - Repair -",
+        "text": "<p>Dein MONTREET*Lieblingsteil hat ein Loch oder einen Riss? Wir reparieren dein Kleidungsstück kostenlos für dich.  Schicke uns einfach eine Mail oder fülle das Kontaktformular aus - ganz easy! Denn wir wollen natürlich, dass dich unsere Kleidungsstücke so lange wie möglich begleiten.</p>",
+        "title": "Wir reparieren deine Kleidung!"
+      },
+      "type": "text-and-image"
+    },
+    "1643559712b55bae47": {
+      "settings": {
+        "align_text": "left",
+        "button_label": "Zum Mietservice",
+        "button_link": "shopify://pages/rental-services",
+        "button_style": "primary",
+        "divider": false,
+        "image_width": 500,
+        "layout": "left",
+        "subtitle": "UNSER MIETSERVICE",
+        "text": "<p>Du bist nicht regelmäßig klettern und laufen gehst du höchstens für einen guten Zweck? Du möchtest ein Produkt zuerst testen oder dir fehlt das nötige Kleingeld? </p><p>Wir haben die Lösung für dich, denn bei uns kannst du Jacken auch mieten!</p>",
+        "title": "Miete eine Jacke"
+      },
+      "type": "text-and-image"
+    },
+    "1643559842a9e4ea45": {
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      },
+      "type": "apps"
+    },
+    "164356004562a7cd17": {
+      "block_order": [
+        "1643560045d338bc02-0",
+        "1643560045d338bc02-1",
+        "1643560045d338bc02-2",
+        "1643560045d338bc02-3",
+        "4a2dfa14-8fff-406a-b0f4-c9e7a47608b6"
+      ],
+      "blocks": {
+        "1643560045d338bc02-0": {
+          "settings": {
+            "link": ""
+          },
+          "type": "logo_image"
+        },
+        "1643560045d338bc02-1": {
+          "settings": {
+            "link": "https://www.kleinezeitung.at/lebensart/sonntag/6026269/Levitate-und-Montreet_Mit-Recycling-und-Pflanzenfasern-setzen"
+          },
+          "type": "logo_image"
+        },
+        "1643560045d338bc02-2": {
+          "settings": {
+            "link": "https://www.textilzeitung.at/fashion/news/label-to-watch-montreet-13828"
+          },
+          "type": "logo_image"
+        },
+        "1643560045d338bc02-3": {
+          "settings": {
+            "link": "https://mio.observer.at/webview/d0c6cffc-13ca-4ee7-a13a-efae0a13b068/7128698#&gid=1&pid=1"
+          },
+          "type": "logo_image"
+        },
+        "4a2dfa14-8fff-406a-b0f4-c9e7a47608b6": {
+          "settings": {
+            "link": "https://mio.observer.at/webview/3c7cf60c-f2f5-45e0-8c88-02754c18d270/6713257#&gid=1&pid=1"
+          },
+          "type": "logo_image"
+        }
+      },
+      "settings": {
+        "divider": false,
+        "logo_opacity": 100,
+        "title": "Bekannt aus"
+      },
+      "type": "logo-list"
+    },
+    "1652437963127d181d": {
+      "settings": {
+        "full_width": false,
+        "space_around": false
+      },
+      "type": "apps"
+    }
+  }
 }
