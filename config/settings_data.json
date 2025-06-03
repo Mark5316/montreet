@@ -74,6 +74,8 @@
     "share_twitter": true,
     "share_pinterest": true,
     "favicon": "shopify://shop_images/logo_blue_0d1dfc04-cb47-4dba-8b84-e5ed7a3c5dbb.png",
+    "search_enable": false,
+    "predictive_search_enabled": false,
     "show_breadcrumbs": false,
     "breadcrumb": true,
     "checkout_accent_color": "#111111",
