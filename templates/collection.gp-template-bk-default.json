@@ -8,39 +8,40 @@
  * ------------------------------------------------------------
  */
 {
-  "order": [
-    "main-collection"
-  ],
   "sections": {
     "main-collection": {
+      "type": "main-collection",
+      "blocks": {
+        "collection_description": {
+          "type": "collection_description",
+          "settings": {
+          }
+        },
+        "product_grid": {
+          "type": "product_grid",
+          "settings": {
+            "collection_subnav_style": "inline",
+            "per_row": 5,
+            "mobile_flush_grid": false
+          }
+        }
+      },
       "block_order": [
         "collection_description",
         "product_grid"
       ],
-      "blocks": {
-        "collection_description": {
-          "settings": {},
-          "type": "collection_description"
-        },
-        "product_grid": {
-          "settings": {
-            "collection_subnav_style": "inline",
-            "mobile_flush_grid": false,
-            "per_row": 5
-          },
-          "type": "product_grid"
-        }
-      },
       "settings": {
-        "collapsed": true,
         "collection_image_enable": false,
         "collection_image_height": 550,
-        "enable_color_swatches": false,
+        "parallax": false,
         "enable_sidebar": false,
-        "enable_sort": true,
-        "parallax": false
-      },
-      "type": "main-collection"
+        "collapsed": true,
+        "enable_color_swatches": false,
+        "enable_sort": true
+      }
     }
-  }
+  },
+  "order": [
+    "main-collection"
+  ]
 }
