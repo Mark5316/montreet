@@ -1,94 +1,13 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin language editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
-  "general": {
-    "accessibility": {
-      "skip_to_content": "Salt la conținut",
-      "close_modal": "Închide (esc)",
-      "close": "Închide",
-      "learn_more": "Află mai multe"
-    },
-    "meta": {
-      "tags": "Etichetat \"{{ tags }}\"",
-      "page": "Pagina {{ page }}"
-    },
-    "404": {
-      "title": "404 Pagina nu a fost găsită",
-      "subtext_html": "<p>Pagina pe care o căutați nu există.<\/p><p><a href='{{ url }}'>Continuă cumpărăturile<\/a><\/p>"
-    },
-    "pagination": {
-      "previous": "Anterior",
-      "next": "Următorul"
-    },
-    "password_page": {
-      "login_form_heading": "Intră în magazin folosind parola",
-      "login_form_password_label": "Parolă",
-      "login_form_password_placeholder": "Parola ta",
-      "login_form_submit": "Intră",
-      "signup_form_email_label": "Email",
-      "signup_form_success": "Îți vom trimite un email chiar înainte de deschidere!",
-      "admin_link_html": "Proprietar de magazin? <a href=\"\/admin\" class=\"text-link\">Autentifică-te aici<\/a>",
-      "password_link": "Parolă",
-      "powered_by_shopify_html": "Acest magazin va fi operat de {{ shopify }}"
-    },
-    "breadcrumbs": {
-      "home": "Acasă",
-      "home_link_title": "Înapoi la pagina principală"
-    },
-    "social": {
-      "share_on_facebook": "Distribuie",
-      "share_on_twitter": "Trimite Tweet",
-      "share_on_pinterest": "Fixează",
-      "alt_text": {
-        "share_on_facebook": "Distribuie pe Facebook",
-        "share_on_twitter": "Trimite Tweet pe Twitter",
-        "share_on_pinterest": "Fixează pe Pinterest"
-      }
-    },
-    "newsletter_form": {
-      "newsletter_email": "Introduceți adresa de email",
-      "newsletter_confirmation": "Vă mulțumim pentru abonare",
-      "submit": "Abonează-te"
-    },
-    "search": {
-      "view_more": "Vezi mai multe",
-      "collections": "Colecții:",
-      "pages": "Pagini:",
-      "articles": "Articole:",
-      "no_results_html": "Căutarea dvs. pentru \"{{ terms }}\" nu a dat niciun rezultat.",
-      "results_for_html": "Căutarea dvs. pentru \"{{ terms }}\" a relevat următoarele:",
-      "title": "Căutare",
-      "placeholder": "Căutați în magazinul nostru",
-      "submit": "Căutare",
-      "result_count": {
-        "one": "{{ count }} rezultat",
-        "other": "{{ count }} rezultate"
-      }
-    },
-    "drawers": {
-      "navigation": "Navigare site",
-      "close_menu": "Închide meniul",
-      "expand_submenu": "Extinde submeniul",
-      "collapse_submenu": "Restrânge submeniul"
-    },
-    "currency": {
-      "dropdown_label": "Monedă"
-    },
-    "language": {
-      "dropdown_label": "Limbă"
-    }
-  },
-  "sections": {
-    "map": {
-      "get_directions": "Obține indicații",
-      "address_error": "Eroare la căutarea adresei",
-      "address_no_results": "Niciun rezultat pentru această adresă",
-      "address_query_limit_html": "Ați depășit limita de utilizare a Google API. Luați în considerare trecerea la un <a href=\"https:\/\/developers.google.com\/maps\/premium\/usage-limits\">Plan Premium<\/a>.",
-      "auth_error_html": "A existat o problemă la autentificarea contului dvs. Google Maps. Creați și activați permisiunile <a href=\"https:\/\/developers.google.com\/maps\/documentation\/javascript\/get-api-key\">API-ul JavaScript<\/a> și <a href=\"https:\/\/developers.google.com\/maps\/documentation\/geocoding\/get-api-key\">API-ul de Geocodare<\/a> ale aplicației dvs."
-    },
-    "slideshow": {
-      "play_slideshow": "Redare prezentare",
-      "pause_slideshow": "Pauză prezentare"
-    }
-  },
   "blogs": {
     "article": {
       "view_all": "Vezi toate",
@@ -122,13 +41,13 @@
       "update": "Actualizează coșul",
       "checkout": "Finalizează comanda",
       "empty": "Coșul dvs. este momentan gol.",
-      "continue_Browse_html": "<a href='{{ url }}'>Continuă cumpărăturile<\/a>",
+      "continue_Browse_html": "<a href='{{ url }}'>Continuă cumpărăturile</a>",
       "close_cart": "Închide coșul",
       "savings_html": "Economisiți {{ savings }}",
       "reduce_quantity": "Reduceți cantitatea articolului cu unu",
       "increase_quantity": "Măriți cantitatea articolului cu unu",
       "terms": "Sunt de acord cu termenii și condițiile",
-      "terms_html": "Sunt de acord cu <a href='{{ url }}' target='_blank'>termenii și condițiile<\/a>",
+      "terms_html": "Sunt de acord cu <a href='{{ url }}' target='_blank'>termenii și condițiile</a>",
       "terms_confirm": "Trebuie să fiți de acord cu termenii și condițiile de vânzare pentru a finaliza comanda"
     },
     "label": {
@@ -265,6 +184,99 @@
       "cancel": "Înapoi la magazin"
     }
   },
+  "date_formats": {
+    "month_day_year": "%d %b, %Y"
+  },
+  "general": {
+    "404": {
+      "title": "404 Pagina nu a fost găsită",
+      "subtext_html": "<p>Pagina pe care o căutați nu există.</p><p><a href='{{ url }}'>Continuă cumpărăturile</a></p>"
+    },
+    "accessibility": {
+      "skip_to_content": "Salt la conținut",
+      "close_modal": "Închide (esc)",
+      "close": "Închide",
+      "learn_more": "Află mai multe"
+    },
+    "meta": {
+      "tags": "Etichetat \"{{ tags }}\"",
+      "page": "Pagina {{ page }}"
+    },
+    "pagination": {
+      "previous": "Anterior",
+      "next": "Următorul"
+    },
+    "password_page": {
+      "login_form_heading": "Intră în magazin folosind parola",
+      "login_form_password_label": "Parolă",
+      "login_form_password_placeholder": "Parola ta",
+      "login_form_submit": "Intră",
+      "signup_form_email_label": "Email",
+      "signup_form_success": "Îți vom trimite un email chiar înainte de deschidere!",
+      "admin_link_html": "Proprietar de magazin? <a href=\"/admin\" class=\"text-link\">Autentifică-te aici</a>",
+      "password_link": "Parolă",
+      "powered_by_shopify_html": "Acest magazin va fi operat de {{ shopify }}"
+    },
+    "breadcrumbs": {
+      "home": "Acasă",
+      "home_link_title": "Înapoi la pagina principală"
+    },
+    "social": {
+      "share_on_facebook": "Distribuie",
+      "share_on_twitter": "Trimite Tweet",
+      "share_on_pinterest": "Fixează",
+      "alt_text": {
+        "share_on_facebook": "Distribuie pe Facebook",
+        "share_on_twitter": "Trimite Tweet pe Twitter",
+        "share_on_pinterest": "Fixează pe Pinterest"
+      }
+    },
+    "newsletter_form": {
+      "newsletter_email": "Introduceți adresa de email",
+      "newsletter_confirmation": "Vă mulțumim pentru abonare",
+      "submit": "Abonează-te"
+    },
+    "search": {
+      "view_more": "Vezi mai multe",
+      "collections": "Colecții:",
+      "pages": "Pagini:",
+      "articles": "Articole:",
+      "no_results_html": "Căutarea dvs. pentru \"{{ terms }}\" nu a dat niciun rezultat.",
+      "results_for_html": "Căutarea dvs. pentru \"{{ terms }}\" a relevat următoarele:",
+      "title": "Căutare",
+      "placeholder": "Căutați în magazinul nostru",
+      "submit": "Căutare",
+      "result_count": {
+        "one": "{{ count }} rezultat",
+        "other": "{{ count }} rezultate"
+      }
+    },
+    "drawers": {
+      "navigation": "Navigare site",
+      "close_menu": "Închide meniul",
+      "expand_submenu": "Extinde submeniul",
+      "collapse_submenu": "Restrânge submeniul"
+    },
+    "currency": {
+      "dropdown_label": "Monedă"
+    },
+    "language": {
+      "dropdown_label": "Limbă"
+    }
+  },
+  "gift_cards": {
+    "issued": {
+      "title_html": "Iată cardul tău cadou de {{ value }} pentru {{ shop }}!",
+      "subtext": "Iată cardul tău cadou!",
+      "disabled": "Dezactivat",
+      "expired": "Expirat la {{ expiry }}",
+      "active": "Expiră la {{ expiry }}",
+      "redeem": "Folosește acest cod la finalizarea comenzii pentru a valorifica cardul cadou",
+      "shop_link": "Începe cumpărăturile",
+      "print": "Printează",
+      "add_to_apple_wallet": "Adaugă la Apple Wallet"
+    }
+  },
   "home_page": {
     "onboarding": {
       "product_title": "Produs exemplu",
@@ -311,12 +323,25 @@
       "add_to_cart": "Adaugă în coș",
       "preorder": "Precomandă",
       "include_taxes": "Taxa inclusă.",
-      "shipping_policy_html": "<a href='{{ link }}'>Transportul<\/a> calculat la finalizarea comenzii.",
+      "shipping_policy_html": "<a href='{{ link }}'>Transportul</a> calculat la finalizarea comenzii.",
       "will_not_ship_until": "Gata de livrare {{ date }}",
       "will_be_in_stock_after": "Revenire în stoc {{ date }}",
       "waiting_for_stock": "Inventar în drum",
       "view_in_space": "Vezi în spațiul tău",
       "view_in_space_label": "Vezi în spațiul tău, încarcă elementul în fereastra de realitate augmentată"
+    }
+  },
+  "sections": {
+    "map": {
+      "get_directions": "Obține indicații",
+      "address_error": "Eroare la căutarea adresei",
+      "address_no_results": "Niciun rezultat pentru această adresă",
+      "address_query_limit_html": "Ați depășit limita de utilizare a Google API. Luați în considerare trecerea la un <a href=\"https://developers.google.com/maps/premium/usage-limits\">Plan Premium</a>.",
+      "auth_error_html": "A existat o problemă la autentificarea contului dvs. Google Maps. Creați și activați permisiunile <a href=\"https://developers.google.com/maps/documentation/javascript/get-api-key\">API-ul JavaScript</a> și <a href=\"https://developers.google.com/maps/documentation/geocoding/get-api-key\">API-ul de Geocodare</a> ale aplicației dvs."
+    },
+    "slideshow": {
+      "play_slideshow": "Redare prezentare",
+      "pause_slideshow": "Pauză prezentare"
     }
   },
   "store_availability": {
@@ -325,24 +350,43 @@
       "check_other_stores": "Verifică disponibilitatea în alte magazine",
       "pick_up_available": "Disponibil pentru ridicare",
       "pick_up_currently_unavailable": "Ridicarea nu este disponibilă momentan",
-      "pick_up_available_at_html": "Disponibil pentru ridicare la <strong>{{ location_name }}<\/strong>",
-      "pick_up_unavailable_at_html": "Ridicarea nu este disponibilă momentan la <strong>{{ location_name }}<\/strong>"
+      "pick_up_available_at_html": "Disponibil pentru ridicare la <strong>{{ location_name }}</strong>",
+      "pick_up_unavailable_at_html": "Ridicarea nu este disponibilă momentan la <strong>{{ location_name }}</strong>"
     }
   },
-  "gift_cards": {
-    "issued": {
-      "title_html": "Iată cardul tău cadou de {{ value }} pentru {{ shop }}!",
-      "subtext": "Iată cardul tău cadou!",
-      "disabled": "Dezactivat",
-      "expired": "Expirat la {{ expiry }}",
-      "active": "Expiră la {{ expiry }}",
-      "redeem": "Folosește acest cod la finalizarea comenzii pentru a valorifica cardul cadou",
-      "shop_link": "Începe cumpărăturile",
-      "print": "Printează",
-      "add_to_apple_wallet": "Adaugă la Apple Wallet"
+  "gempages": {
+    "Carousel": {
+      "no_slider": "No Slider"
+    },
+    "Newsletter": {
+      "err_msg_default": "Can’t send email. Please try again later.",
+      "success_msg_default": "Thanks for contacting us. We'll get back to you as soon as possible."
+    },
+    "IconListV2": {
+      "icons_not_found": "Icons not found"
+    },
+    "IconList": {
+      "icons_not_found": "Icons not found"
+    },
+    "IconListHoz": {
+      "icons_not_found": "Icons not found"
+    },
+    "Product": {
+      "product_not_found": "Product not found"
+    },
+    "ProductList": {
+      "product_not_found": "Product Not Found!",
+      "no_products_found": "No products found!",
+      "no_related_products": "No related products!"
+    },
+    "ProductTitle": {
+      "product_not_found": "Product Not Found"
+    },
+    "ProductVariants": {
+      "please_select": "Please select an option"
+    },
+    "StockCounter": {
+      "let_buy_now": "<mark>HURRY!</mark> LET BUY NOW"
     }
-  },
-  "date_formats": {
-    "month_day_year": "%d %b, %Y"
   }
 }
