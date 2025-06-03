@@ -37,6 +37,7 @@
     "type_header_base_size": 34,
     "type_header_line_height": 1.1,
     "type_chaney_line_height": 1,
+    "type_header_capitalize": true,
     "type_header_accent_transform": true,
     "type_base_font_family": "poppins_n4",
     "type_base_spacing": "25",

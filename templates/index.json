@@ -253,6 +253,38 @@
         "space_around": true
       }
     },
+    "newsletter_qKEDXa": {
+      "type": "newsletter",
+      "blocks": {
+        "title_kGyFLw": {
+          "type": "title",
+          "settings": {
+            "title": "Sign up and save",
+            "icon_enable": true
+          }
+        },
+        "text_NFKntc": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Gib deine E-Mail Adresse ein</p>"
+          }
+        },
+        "form_AmJgwX": {
+          "type": "form",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "title_kGyFLw",
+        "text_NFKntc",
+        "form_AmJgwX"
+      ],
+      "name": "Email signup",
+      "settings": {
+        "color_background": "#ffffff",
+        "color_text": "#1c1d1d"
+      }
+    },
     "1652437963127d181d": {
       "type": "apps",
       "settings": {
@@ -271,6 +303,7 @@
     "1643559555ba63368b",
     "1643559712b55bae47",
     "1643559842a9e4ea45",
+    "newsletter_qKEDXa",
     "1652437963127d181d"
   ]
 }
