@@ -98,21 +98,6 @@
         "autoplay_speed": 6
       }
     },
-    "16435588208e0c7288": {
-      "type": "background-image-text",
-      "settings": {
-        "subtitle": "ABOUT US",
-        "title": "WER WIR SIND",
-        "text": "<p>Nachhaltige Lebensweise, spannende, ausgefallene Designs und made in Europe - das ist MONTREET.<\/p>",
-        "button_label": "Mehr über MONTREET",
-        "button_link": "shopify:\/\/pages\/our-story",
-        "image": "shopify:\/\/shop_images\/png.png",
-        "focal_point": "center",
-        "layout": "right",
-        "height": 550,
-        "parallax": true
-      }
-    },
     "164355902397d3a8e9": {
       "type": "rich-text",
       "blocks": {
@@ -268,51 +253,36 @@
         "space_around": true
       }
     },
-    "164356004562a7cd17": {
-      "type": "logo-list",
+    "newsletter_qKEDXa": {
+      "type": "newsletter",
       "blocks": {
-        "1643560045d338bc02-0": {
-          "type": "logo_image",
+        "title_kGyFLw": {
+          "type": "title",
           "settings": {
-            "link": ""
+            "title": "Sign up and save",
+            "icon_enable": true
           }
         },
-        "1643560045d338bc02-1": {
-          "type": "logo_image",
+        "text_NFKntc": {
+          "type": "text",
           "settings": {
-            "link": "https:\/\/www.kleinezeitung.at\/lebensart\/sonntag\/6026269\/Levitate-und-Montreet_Mit-Recycling-und-Pflanzenfasern-setzen"
+            "text": "<p>Gib deine E-Mail Adresse ein<\/p>"
           }
         },
-        "1643560045d338bc02-2": {
-          "type": "logo_image",
-          "settings": {
-            "link": "https:\/\/www.textilzeitung.at\/fashion\/news\/label-to-watch-montreet-13828"
-          }
-        },
-        "1643560045d338bc02-3": {
-          "type": "logo_image",
-          "settings": {
-            "link": "https:\/\/mio.observer.at\/webview\/d0c6cffc-13ca-4ee7-a13a-efae0a13b068\/7128698#&gid=1&pid=1"
-          }
-        },
-        "4a2dfa14-8fff-406a-b0f4-c9e7a47608b6": {
-          "type": "logo_image",
-          "settings": {
-            "link": "https:\/\/mio.observer.at\/webview\/3c7cf60c-f2f5-45e0-8c88-02754c18d270\/6713257#&gid=1&pid=1"
-          }
+        "form_AmJgwX": {
+          "type": "form",
+          "settings": {}
         }
       },
       "block_order": [
-        "1643560045d338bc02-0",
-        "1643560045d338bc02-1",
-        "1643560045d338bc02-2",
-        "1643560045d338bc02-3",
-        "4a2dfa14-8fff-406a-b0f4-c9e7a47608b6"
+        "title_kGyFLw",
+        "text_NFKntc",
+        "form_AmJgwX"
       ],
+      "name": "Email signup",
       "settings": {
-        "title": "Bekannt aus",
-        "logo_opacity": 100,
-        "divider": false
+        "color_background": "#ffffff",
+        "color_text": "#1c1d1d"
       }
     },
     "1652437963127d181d": {
@@ -325,7 +295,6 @@
   },
   "order": [
     "1643557152da74e53e",
-    "16435588208e0c7288",
     "164355902397d3a8e9",
     "1643559081348e5c83",
     "1643559238ee358c57",
@@ -334,7 +303,7 @@
     "1643559555ba63368b",
     "1643559712b55bae47",
     "1643559842a9e4ea45",
-    "164356004562a7cd17",
+    "newsletter_qKEDXa",
     "1652437963127d181d"
   ]
 }
